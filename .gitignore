@@ -8,4 +8,5 @@ temp
 *.log
 .~*
 .*
-ref/*
+ref/index*
+ref/*.zip

@@ -11,10 +11,15 @@ install follows first
 - [jupyter-notebook](https://jupyter.org/install)(Strongly recommend installing Python and Jupyter using the [Anaconda](https://www.anaconda.com/distribution/))
 - [almond](https://almond.sh/)(scala kernel for jupyter) 
 
-## Usage
+## 使用方法
 
 ```shell
 $: git clone git@github.com:lifoo/ScalaNewbie.git
 $: cd ScalaNewBie
 $: jupyter notebook &
 ```
+
+
+## 相关链接
+[ScalaTest](https://www.scalatest.org)  
+[Ammonite](https://ammonite.io)
